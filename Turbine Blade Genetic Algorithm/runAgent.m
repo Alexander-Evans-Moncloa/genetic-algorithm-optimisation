@@ -1,0 +1,1 @@
+optimalAction = getAction(agent, initialObs);
