@@ -8,7 +8,7 @@ This repository contains a collection of projects focused on the optimisation of
 
 ### 1. **Turbine Blade Optimisation**  
 - Implements a **genetic algorithm (GA)** to optimise key parameters of wind turbine blades, including twist distribution, chord length, and tip speed ratio (TSR).  
-- Incorporates Betz's theory and exponential parameterisation to maximise the coefficient of power (C\_P).  
+- Incorporates Betz's theory and exponential parameterisation to maximise the coefficient of power (Cp).  
 - **Files**:  
   - `newerMain.m` / `newestMain.m`: Main scripts for the blade optimisation genetic algorithm.  
 
